@@ -1,0 +1,35 @@
+# PyTorch and Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Transformers and NLP
+transformers>=4.35.0
+tokenizers>=0.15.0
+peft>=0.7.0
+datasets>=2.14.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+
+# MLflow for Experiment Tracking
+mlflow>=2.8.0
+
+# API Framework
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.4.0
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Utilities
+python-multipart>=0.0.6
+joblib>=1.3.0
+tqdm>=4.66.0
+python-dotenv>=1.0.0
+
+# Testing (optional)
+pytest>=7.4.0
+httpx>=0.25.0
